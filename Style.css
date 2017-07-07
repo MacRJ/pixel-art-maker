@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.group {
+  /*display: inline-block;*/
+  width: 600px;
+  height: 600px;
+}
+
+.box {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  border: 5px solid black;
+  /*padding: 25px;*/
+  /*margin: 25px;*/
+}
